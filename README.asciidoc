@@ -11,3 +11,15 @@
 * Sebze
 ** Pırasa
 ** Domates
+
+=== Admonitions
+
+[NOTE]
+====
+kimi sebzeler meyvedir
+====
+
+[WARNING]
+====
+elma ile armutu birbirine karıştırmayın
+====
